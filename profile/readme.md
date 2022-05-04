@@ -9,6 +9,9 @@ We are the creator of [ImageGoNord](https://ign.schrodinger-hat.it), [Open Sourc
 
 We are: [thejoin](https://github.com/thejoin95) & [wabri](https://github.com/wabri)
 
+### 🐱 Community
+
+We are not alone: [discord server](https://discord.gg/RTXr8A3eFn)
 
 ### 🚀 Contributing & Projects
 
