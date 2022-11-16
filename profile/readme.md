@@ -5,9 +5,20 @@ We are based in Florence, Italy. If you pass from this beautiful city, give us a
 
 We are the creator of [ImageGoNord](https://ign.schrodinger-hat.it), [Open Source Day - Florence](https://www.eventbrite.it/e/biglietti-open-source-day-2021-firenze-166034195749) and other beautiful things C:
 
-### 🧙‍♂️ Founders
+### 🧙‍♂️ Original Founders
 
 We are: [thejoin](https://github.com/thejoin95) & [wabri](https://github.com/wabri)
+
+### 🥷🏻 Organizers and Community Admins/Mods
+
+[thejoin](https://github.com/thejoin95)
+[wabri](https://github.com/wabri)
+[nicpuppa](https://github.com/nicpuppa)
+[davideimola](https://github.com/davideimola)
+[404answernotfound](https://github.com/404answernotfound)
+[angydev](https://github.com/AngyDev)
+[danersound](https://github.com/DanerSound)
+[ludusrusso](https://github.com/ludusrusso)
 
 ### 🐱 Community
 
