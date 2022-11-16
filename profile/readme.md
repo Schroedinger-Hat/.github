@@ -11,14 +11,14 @@ We are: [thejoin](https://github.com/thejoin95) & [wabri](https://github.com/wab
 
 ### 🥷🏻 Organizers and Community Admins/Mods
 
-[thejoin](https://github.com/thejoin95)
-[wabri](https://github.com/wabri)
-[nicpuppa](https://github.com/nicpuppa)
-[davideimola](https://github.com/davideimola)
-[404answernotfound](https://github.com/404answernotfound)
-[angydev](https://github.com/AngyDev)
-[danersound](https://github.com/DanerSound)
-[ludusrusso](https://github.com/ludusrusso)
+[thejoin](https://github.com/thejoin95)  
+[wabri](https://github.com/wabri) 
+[nicpuppa](https://github.com/nicpuppa) 
+[davideimola](https://github.com/davideimola) 
+[404answernotfound](https://github.com/404answernotfound) 
+[angydev](https://github.com/AngyDev) 
+[danersound](https://github.com/DanerSound) 
+[ludusrusso](https://github.com/ludusrusso) 
 
 ### 🐱 Community
 
