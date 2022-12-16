@@ -3,7 +3,7 @@
 Schrödinger Hat is the first open source community, podcast, live streaming, event organizer and much more!
 We are based in Florence, Italy. If you pass from this beautiful city, give us a call!
 
-We are the creator of [ImageGoNord](https://ign.schrodinger-hat.it), [Open Source Day - Florence](https://www.eventbrite.it/e/biglietti-open-source-day-2021-firenze-166034195749) and other beautiful things C:
+We are the creator of [ImageGoNord](https://ign.schrodinger-hat.it), [Open Source Day - Florence](https://www.eventbrite.it/e/biglietti-open-source-day-2021-firenze-166034195749), [Open Source Wrapped](https://github.com/Schrodinger-Hat/open-source-wrapped) and other beautiful things C:
 
 ### 🧙‍♂️ Original Founders
 
