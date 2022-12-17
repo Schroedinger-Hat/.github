@@ -1,41 +1,42 @@
 ## Hey, this is Schrödinger Hat 👋
 
 Schrödinger Hat is the first open source community, podcast, live streaming, event organizer and much more!
-We are based in Florence, Italy. If you pass from this beautiful city, give us a call!
 
-We are the creator of [ImageGoNord](https://ign.schrodinger-hat.it), [Open Source Day - Florence](https://www.eventbrite.it/e/biglietti-open-source-day-2021-firenze-166034195749), [Open Source Wrapped](https://github.com/Schrodinger-Hat/open-source-wrapped) and other beautiful things C:
+### 🥷🏻 Contributors
 
-### 🧙‍♂️ Original Founders
-
-[thejoin](https://github.com/thejoin95) & [wabri](https://github.com/wabri)
-
-### 🥷🏻 Organizers and Community Admins/Mods
-
-[thejoin](https://github.com/thejoin95)
-[wabri](https://github.com/wabri)
-[nicpuppa](https://github.com/nicpuppa)
-[davideimola](https://github.com/davideimola)
-[404answernotfound](https://github.com/404answernotfound)
-[angydev](https://github.com/AngyDev)
-[ludusrusso](https://github.com/ludusrusso)
-[buglil](https://github.com/BugliL)
-[danersound](https://github.com/DanerSound)
-[abe-101](https://github.com/abe-101)
-[matevskial](https://github.com/matevskial)
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/wabri"><img src="https://avatars.githubusercontent.com/u/12409541?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriele Puliti</b></sub></a></td>
+      <td align="center"><a href="https://github.com/thejoin95"><img src="https://avatars.githubusercontent.com/u/6616203?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miki Lombardi</b></sub></a></td>
+      <td align="center"><a href="https://github.com/404answernotfound"><img src="https://avatars.githubusercontent.com/u/79904453?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lorenzo Pieri</b></sub></a></td>
+      <td align="center"><a href="https://github.com/abe-101"><img src="https://avatars.githubusercontent.com/u/82916197?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abe Hanoka</b></sub></a></td>
+      <td align="center"><a href="https://github.com/AngyDev"><img src="https://avatars.githubusercontent.com/u/44018650?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Angela Busato</b></sub></a></td>
+      <td align="center"><a href="https://github.com/BugliL"><img src="https://avatars.githubusercontent.com/u/3107276?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BugliL</b></sub></a></td>
+      <td align="center"><a href="https://github.com/DanerSound"><img src="https://avatars.githubusercontent.com/u/11822185?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andre Cristhian</b></sub></a></td>
+    </tr>
+    <tr>      
+      <td align="center"><a href="https://github.com/davideimola"><img src="https://avatars.githubusercontent.com/u/14623986?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Davide Imola</b></sub></a></td>
+      <td align="center"><a href="https://github.com/ludusrusso"><img src="https://avatars.githubusercontent.com/u/8146506?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ludovico Russo</b></sub></a></td>
+      <td align="center"><a href="https://github.com/matevskial"><img src="https://avatars.githubusercontent.com/u/44746117?v=4?s=100" width="100px;" alt=""/><br /><sub><b>matevskial</b></sub></a></td>
+      <td align="center"><a href="https://github.com/nicpuppa"><img src="https://avatars.githubusercontent.com/u/72783243?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicola Puppa</b></sub></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🐱 Community
 
 We are not alone: [discord server](https://discord.gg/RTXr8A3eFn)
 
-### 🚀 Contributing & Projects
+### 🚀 Projects
 
 We have several ideas, here are some projects:
-- [ImageGoNord: a tool that can convert your rgb images to nordtheme palette Website](https://github.com/Schrodinger-Hat/ImageGoNord)
-- [Netflix Show Cover Generator](https://github.com/Schrodinger-Hat/netflix-show-generator)
+- [ImageGoNord: a tool that can convert your rgb images to nordtheme palette Website](https://github.com/Schrodinger-Hat/ImageGoNord) -> [Check out the website](https://ign.schrodinger-hat.it/)
+- [Netflix Show Cover Generator](https://github.com/Schrodinger-Hat/netflix-show-generator) -> [Check out the website](https://netflix.schrodinger-hat.it/)
 - [Cloud-Native massive mail sender for Kubernetes](https://github.com/Schrodinger-Hat/kannon)
 - [YouTube to Anchor.fm pipeline](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
-- [A Spotify Wrapped Cameo to Open Source development](https://github.com/Schrodinger-Hat/open-source-wrapped)
-- [Do you have already a snack job?](https://github.com/Schrodinger-Hat/snackjob)
+- [A Spotify Wrapped Cameo to Open Source development](https://github.com/Schrodinger-Hat/open-source-wrapped) -> [Check out the website](https://wrapped.schrodinger-hat.it/)
+- [Do you have already a snack job?](https://github.com/Schrodinger-Hat/snackjob) -> [Check out the website](https://jobs.schrodinger-hat.it/)
 
 Feel free to contribute with a PR :)
 
