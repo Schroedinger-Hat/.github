@@ -54,7 +54,6 @@ Also, if you would like to support us for our works you can go on our [OpenColle
 - [OpenCollective](https://opencollective.com/schrodinger-hat)
 - [Twitter](https://twitter.com/schrodinger_hat)
 - [LinkedIn](https://www.linkedin.com/company/schrodinger-hat/)
-- [Telegram](https://t.me/joinchat/UrdY3eCmpyi_MuH_)
 - [Instagram](https://www.instagram.com/schrodinger_hat/)
 
 Made with 💗
