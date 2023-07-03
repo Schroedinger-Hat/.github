@@ -33,7 +33,6 @@ We are not alone: [discord server](https://discord.gg/RTXr8A3eFn)
 We have several ideas, here are some projects:
 - [ImageGoNord: a tool that can convert your rgb images to nordtheme palette Website](https://github.com/Schrodinger-Hat/ImageGoNord) -> [Check out the website](https://ign.schrodinger-hat.it/)
 - [Netflix Show Cover Generator](https://github.com/Schrodinger-Hat/netflix-show-generator) -> [Check out the website](https://netflix.schrodinger-hat.it/)
-- [Cloud-Native massive mail sender for Kubernetes](https://github.com/Schrodinger-Hat/kannon)
 - [YouTube to Anchor.fm pipeline](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
 - [A Spotify Wrapped Cameo to Open Source development](https://github.com/Schrodinger-Hat/open-source-wrapped) -> [Check out the website](https://wrapped.schrodinger-hat.it/)
 - [Do you have already a snack job?](https://github.com/Schrodinger-Hat/snackjob) -> [Check out the website](https://jobs.schrodinger-hat.it/)
