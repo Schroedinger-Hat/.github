@@ -20,6 +20,7 @@ Schrödinger Hat is the first open source community, podcast, live streaming, ev
       <td align="center"><a href="https://github.com/matevskial"><img src="https://avatars.githubusercontent.com/u/44746117?v=4?s=100" width="100px;" alt=""/><br /><sub><b>matevskial</b></sub></a></td>
       <td align="center"><a href="https://github.com/nicpuppa"><img src="https://avatars.githubusercontent.com/u/72783243?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicola Puppa</b></sub></a></td>      
       <td align="center"><a href="https://github.com/Readpato"><img src="https://avatars.githubusercontent.com/u/87768087?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Patrick Raedler</b></sub></a></td>
+      <td align="center"><a href="https://github.com/LobeTia"><img src="https://avatars.githubusercontent.com/u/8667323?v=4?s=100" width="100px;" alt=""/><br /><sub><b> Mattia Lobertini </b></sub></a></td>
     </tr>
   </tbody>
 </table>
