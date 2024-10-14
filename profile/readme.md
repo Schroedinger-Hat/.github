@@ -32,11 +32,11 @@ We are not alone: [discord server](https://discord.gg/RTXr8A3eFn)
 ### 🚀 Projects
 
 We have several ideas, here are some projects:
-- [ImageGoNord: a tool that can convert your rgb images to nordtheme palette Website](https://github.com/Schrodinger-Hat/ImageGoNord) -> [Check out the website](https://ign.schrodinger-hat.it/)
-- [Netflix Show Cover Generator](https://github.com/Schrodinger-Hat/netflix-show-generator) -> [Check out the website](https://netflix.schrodinger-hat.it/)
-- [YouTube to Anchor.fm pipeline](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
-- [A Spotify Wrapped Cameo to Open Source development](https://github.com/Schrodinger-Hat/open-source-wrapped) -> [Check out the website](https://wrapped.schrodinger-hat.it/)
-- [Do you have already a snack job?](https://github.com/Schrodinger-Hat/snackjob) -> [Check out the website](https://jobs.schrodinger-hat.it/)
+- [ImageGoNord: a tool that can convert your rgb images to nordtheme palette Website](https://github.com/Schroedinger-Hat/ImageGoNord) -> [Check out the website](https://ign.schroedinger-hat.org/)
+- [Netflix Show Cover Generator](https://github.com/Schroedinger-Hat/netflix-show-generator) -> [Check out the website](https://netflix.schroedinger-hat.org/)
+- [YouTube to Anchor.fm pipeline](https://github.com/Schroedinger-Hat/youtube-to-anchorfm)
+- [A Spotify Wrapped Cameo to Open Source development](https://github.com/Schroedinger-Hat/open-source-wrapped) -> [Check out the website](https://wrapped.schroedinger-hat.org/)
+- [Do you have already a snack job?](https://github.com/Schroedinger-Hat/snackjob) -> [Check out the website](https://jobs.schroedinger-hat.org/)
 
 Feel free to contribute with a PR :)
 
@@ -48,12 +48,12 @@ Also, if you would like to support us for our works you can go on our [OpenColle
 
 ### 👓 Links
 
-- [Site](https://www.schrodinger-hat.it/)
+- [Site](https://schroedinger-hat.org/)
 - [YouTube](https://www.youtube.com/channel/UC1QLLgrGrPmlaFhS0orykCA)
 - [Spotify](https://open.spotify.com/show/7yfkQCV6hrPIqflSqJDB2P)
 - [OpenCollective](https://opencollective.com/schrodinger-hat)
 - [Twitter](https://twitter.com/schrodinger_hat)
-- [LinkedIn](https://www.linkedin.com/company/schrodinger-hat/)
+- [LinkedIn](https://www.linkedin.com/company/schroedinger-hat/)
 - [Instagram](https://www.instagram.com/schrodinger_hat/)
 
 Made with 💗
