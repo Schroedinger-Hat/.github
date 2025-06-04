@@ -1,59 +1,80 @@
-## Hey, this is Schrödinger Hat 👋
+# 👋 Welcome to Schrödinger Hat
 
-Schrödinger Hat is the first open source community, podcast, live streaming, event organizer and much more!
+<!-- [![Schrödinger Hat Logo](../assets/logo.png)](https://schroedinger-hat.org) -->
+<div align="center">
+    <a href="https://schroedinger-hat.org">
+      <img src="../assets/logo.png" alt="Schrödinger Hat Logo" width="20%" align="center"/>
+    </a>
+</div>
 
-### 🥷🏻 Contributors
+Schrödinger Hat is a nonprofit association made of open source enthusiasts.
+We organize events, create software, and grow communities to spread the love for open-source across Europe.
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/wabri"><img src="https://avatars.githubusercontent.com/u/12409541?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriele Puliti</b></sub></a></td>
-      <td align="center"><a href="https://github.com/thejoin95"><img src="https://avatars.githubusercontent.com/u/6616203?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miki Lombardi</b></sub></a></td>
-      <td align="center"><a href="https://github.com/404answernotfound"><img src="https://avatars.githubusercontent.com/u/79904453?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lorenzo Pieri</b></sub></a></td>
-      <td align="center"><a href="https://github.com/abe-101"><img src="https://avatars.githubusercontent.com/u/82916197?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abe Hanoka</b></sub></a></td>
-      <td align="center"><a href="https://github.com/AngyDev"><img src="https://avatars.githubusercontent.com/u/44018650?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Angela Busato</b></sub></a></td>
-      <td align="center"><a href="https://github.com/BugliL"><img src="https://avatars.githubusercontent.com/u/3107276?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BugliL</b></sub></a></td>
-      <td align="center"><a href="https://github.com/DanerSound"><img src="https://avatars.githubusercontent.com/u/11822185?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andre Cristhian</b></sub></a></td>
-    </tr>
-    <tr>      
-      <td align="center"><a href="https://github.com/davideimola"><img src="https://avatars.githubusercontent.com/u/14623986?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Davide Imola</b></sub></a></td>
-      <td align="center"><a href="https://github.com/matevskial"><img src="https://avatars.githubusercontent.com/u/44746117?v=4?s=100" width="100px;" alt=""/><br /><sub><b>matevskial</b></sub></a></td>
-      <td align="center"><a href="https://github.com/nicpuppa"><img src="https://avatars.githubusercontent.com/u/72783243?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicola Puppa</b></sub></a></td>      
-      <td align="center"><a href="https://github.com/Readpato"><img src="https://avatars.githubusercontent.com/u/87768087?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Patrick Raedler</b></sub></a></td>
-      <td align="center"><a href="https://github.com/LobeTia"><img src="https://avatars.githubusercontent.com/u/8667323?v=4?s=100" width="100px;" alt=""/><br /><sub><b> Mattia Lobertini </b></sub></a></td>
-    </tr>
-  </tbody>
-</table>
+We believe in **free access to knowledge, collaborative innovation, and inclusive spaces** for developers, makers, and curious minds. Join us in building something meaningful, together.
 
-### 🐱 Community
+## 🚀 How to Get Involved
 
-We are not alone: [discord server](https://discord.gg/RTXr8A3eFn)
+Whether you're a seasoned hacker or just starting out, there's a place for you in our community.
 
-### 🚀 Projects
+### 🤝 Become a Member
 
-We have several ideas, here are some projects:
-- [ImageGoNord: a tool that can convert your rgb images to nordtheme palette Website](https://github.com/Schroedinger-Hat/ImageGoNord) -> [Check out the website](https://ign.schroedinger-hat.org/)
-- [Netflix Show Cover Generator](https://github.com/Schroedinger-Hat/netflix-show-generator) -> [Check out the website](https://netflix.schroedinger-hat.org/)
-- [YouTube to Anchor.fm pipeline](https://github.com/Schroedinger-Hat/youtube-to-anchorfm)
-- [A Spotify Wrapped Cameo to Open Source development](https://github.com/Schroedinger-Hat/open-source-wrapped) -> [Check out the website](https://wrapped.schroedinger-hat.org/)
-- [Do you have already a snack job?](https://github.com/Schroedinger-Hat/snackjob) -> [Check out the website](https://jobs.schroedinger-hat.org/)
+Join our community as a member to get exclusive benefits, access to special events, and more.
 
-Feel free to contribute with a PR :)
+[🌟 Become a Member](https://schroedinger-hat.org/association/join)
 
-### 🦦 Sponsor & Sponsorship
+### 💬 Join the Conversation on Discord
 
-We love to help others, if you want to sponsor your open source project, podcast or activity drop us a message on Twitter or an email.
+Our Discord server is the beating heart of the community:
+[discord.schroedinger-hat.org](https://discord.schroedinger-hat.org)
 
-Also, if you would like to support us for our works you can go on our [OpenCollective](https://opencollective.com/schrodinger-hat) page.
+Chat with us about open source, contribute to discussions, share your projects, or just hang out.
+Want to do more? Ask for one of our project or volunteer roles!
 
-### 👓 Links
+### 💻 Contribute Code on GitHub
 
-- [Site](https://schroedinger-hat.org/)
-- [YouTube](https://www.youtube.com/channel/UC1QLLgrGrPmlaFhS0orykCA)
-- [Spotify](https://open.spotify.com/show/7yfkQCV6hrPIqflSqJDB2P)
-- [OpenCollective](https://opencollective.com/schrodinger-hat)
-- [Twitter](https://twitter.com/schrodinger_hat)
-- [LinkedIn](https://www.linkedin.com/company/schroedinger-hat/)
-- [Instagram](https://www.instagram.com/schroedinger_hat/)
+We're always looking for contributors and maintainers for our open source projects: [-> Github Repositories](https://github.com/orgs/Schroedinger-Hat/repositories)
 
-Made with 💗
+Got an idea for a new open source tool or project? We'd love to hear from you, write to us at: dev@schroedinger-hat.org
+
+### 🎙️ Join the Podcast
+
+We host an open tech podcast, created by the community.
+Want to join an episode or propose your own? Hop into our [Discord channel](https://discord.schroedinger-hat.org) or message us at podcast@schroedinger-hat.org
+
+[📻 Listen on Spotify](https://open.spotify.com/show/7yfkQCV6hrPIqflSqJDB2P)
+
+### 🎉 Organize or Help Run Events
+
+We organize meetups, workshops, and conferences throughout the year, like [OSDAY](https://osday.dev).
+Volunteers are always needed, from logistics to speakers to streamers.
+
+📩 Propose an event: events@schroedinger-hat.org
+
+## 💡 How to Support Us
+
+### 🦦 Sponsor or Get Sponsored
+
+Want to support open source? We collect donation requests from individuals and organizations.
+
+[💚 Open Collective](https://opencollective.com/schrodinger-hat)
+
+### 🛒 Buy our Merch
+
+Support us by buying our merch! All proceeds go towards funding our community initiatives and events.
+
+[🛍️ Shop Now](https://shop.schroedinger-hat.org/)
+
+### 📧 Subscribe to Our Newsletter
+
+Stay updated with our latest news, events, and open source projects.
+
+[📬 Subscribe Now](https://schroedinger-hat.org/association/newsletter)
+
+### 🌐 Connect with Us
+
+- [🌍 Website](https://schroedinger-hat.org)
+- [💼 LinkedIn](https://www.linkedin.com/company/53115782)
+- [📺 YouTube](https://www.youtube.com/c/schrodingerhat)
+- [📷 Instagram](https://www.instagram.com/schroedinger_hat/)
+
+Made with 💗 by the Schrödinger Hat community.
