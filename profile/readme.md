@@ -1,12 +1,5 @@
 # 👋 Welcome to Schrödinger Hat
 
-<!-- [![Schrödinger Hat Logo](../assets/logo.png)](https://schroedinger-hat.org) -->
-<div align="center">
-    <a href="https://schroedinger-hat.org">
-      <img src="../assets/logo.png" alt="Schrödinger Hat Logo" width="20%" align="center"/>
-    </a>
-</div>
-
 Schrödinger Hat is a nonprofit association made of open source enthusiasts.
 We organize events, create software, and grow communities to spread the love for open-source across Europe.
 
